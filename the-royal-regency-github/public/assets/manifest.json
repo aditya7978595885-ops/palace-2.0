@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "description": "Local replaceable asset manifest for The Royal Regency. Drop your own files into the corresponding folders and update flags to true, or upload them live via the Customization Panel.",
+  "images": {
+    "palaceExterior": null,
+    "gardenBackdrop": null,
+    "royalCrest": null
+  },
+  "textures": {
+    "marbleFloor": null,
+    "wallpaper": null,
+    "velvetCurtain": null,
+    "rosePetal": null,
+    "gardenPath": null
+  },
+  "models": {
+    "crown": null,
+    "chandelier": null,
+    "fountain": null,
+    "gazebo": null
+  },
+  "audio": {
+    "backgroundMusic": null
+  }
+}

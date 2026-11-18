@@ -1,0 +1,82 @@
+{
+  "publishedAt": 1795013250000,
+  "recipientName": "Aadya",
+  "senderName": "Rudra",
+  "foyerWelcomeTitle": "Welcome Home, Aadya",
+  "galleryFrameCount": 8,
+  "galleryLayout": "corridor",
+  "plaque": {
+    "mainTitle": "THE ROYAL DEDICATION",
+    "dedication": "Eternally Dedicated To",
+    "recipientName": "Aadya",
+    "romanticMessage": "In every lifetime and every season of my life, I want you, and my heart always chooses yours, as it belongs to you, my lady. From the start to the end, I'll always be at your service. May this palace stand as a timeless tribute to you and your kindness—the world belongs to you, my lady, and you'll always deserve the best.",
+    "specialDate": "Forever & Always",
+    "additionalText": "Sealed beneath the golden chandeliers of The Royal Regency"
+  },
+  "photos": [
+    {
+      "id": "frame-1",
+      "dataUrl": "/assets/images/portrait-1.jpg",
+      "caption": "Hi Wifey",
+      "date": "Portrait I",
+      "rotationY": 0,
+      "aspectRatio": 0.547
+    },
+    {
+      "id": "frame-2",
+      "dataUrl": "/assets/images/portrait-2.jpg",
+      "caption": "MY CUTU BABYY<333",
+      "date": "23 / 11 / 2013",
+      "rotationY": 0,
+      "aspectRatio": 1.333
+    },
+    {
+      "id": "frame-3",
+      "dataUrl": "/assets/images/portrait-3.jpg",
+      "caption": "MY JAANUUUU",
+      "date": "Portrait III",
+      "rotationY": 0,
+      "aspectRatio": 0.547
+    },
+    {
+      "id": "frame-4",
+      "dataUrl": "/assets/images/portrait-4.jpg",
+      "caption": "MERII LAXIIIMIII",
+      "date": "Portrait IV",
+      "rotationY": 0,
+      "aspectRatio": 0.562
+    },
+    {
+      "id": "frame-5",
+      "dataUrl": "/assets/images/portrait-5.jpg",
+      "caption": "CHATPATI BAUNIII",
+      "date": "Portrait V",
+      "rotationY": 0,
+      "aspectRatio": 0.562
+    },
+    {
+      "id": "frame-6",
+      "dataUrl": "/assets/images/portrait-6.jpg",
+      "caption": "CURVESSSS",
+      "date": "Portrait VI",
+      "rotationY": 0,
+      "aspectRatio": 0.562
+    },
+    {
+      "id": "frame-7",
+      "dataUrl": "/assets/images/portrait-7.jpg",
+      "caption": "THEE EYESSSS I FELLL FORRRRR",
+      "date": "Portrait VII",
+      "rotationY": 0,
+      "aspectRatio": 1.778
+    },
+    {
+      "id": "frame-8",
+      "dataUrl": "/assets/images/portrait-8.jpg",
+      "caption": "MYYY LOVEEEE MYY AADYAAAA FOREVEERRR<3333333",
+      "date": "Portrait VIII",
+      "rotationY": 0,
+      "aspectRatio": 0.562
+    }
+  ]
+}
